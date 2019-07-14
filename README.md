@@ -4,7 +4,7 @@ Cálculo das funções Seno e Cosseno usando séries numéricas
 Uma maneira de implementar as funções que calculam o coseno e o seno
 em programas de computador é através de séries de Taylor nas formas:
 
-![](formulas.png)
+![](Formulas.png)
 
 sendo que  é o ângulo em radianos. Escreva um programa em C que:
 a) Imprima, para um valor de ângulo em graus digitado pelo usuário, os
