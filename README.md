@@ -6,7 +6,7 @@ em programas de computador é através de séries de Taylor nas formas:
 
 ![](Formulas.png)
 
-sendo que  é o ângulo em radianos. Escreva um programa em C que:
+sendo que θ é o ângulo em radianos. Escreva um programa em C que:
 a) Imprima, para um valor de ângulo em graus digitado pelo usuário, os
 resultados das séries acima para 3 termos (ou seja, de _n=0_ até _n=2_);
 b) Faça o mesmo para 40 termos;
